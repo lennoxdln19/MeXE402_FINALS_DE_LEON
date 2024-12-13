@@ -27,7 +27,7 @@ This project aims to automate the process of creating artistic background effect
    - Use bitwise operations to combine the subject with the blurred background, ensuring the subject remains sharp.
 
 5. **Result Visualization**:
-   - Display the original image and the processed image side by side for comparison using `matplotlib`.
+![Artistic Portrait](images/portrait.jpg)
 
 ## Conclusion
 The project successfully demonstrated how computer vision techniques, specifically image segmentation and Gaussian blur, can be applied to create artistic background effects in portrait photography. The use of the DeepLabv3 model enabled accurate segmentation of the subject, ensuring the foreground remains sharp while the background is effectively blurred. Challenges included fine-tuning the segmentation model for diverse images and optimizing performance for batch processing. The expected outcome of high-quality, visually appealing portraits with artistic background effects was achieved. Future improvements could involve enhancing the model's performance with more complex background scenarios or experimenting with alternative blur techniques for different artistic styles.
