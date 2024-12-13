@@ -27,6 +27,7 @@ This project aims to automate the process of creating artistic background effect
    - Use bitwise operations to combine the subject with the blurred background, ensuring the subject remains sharp.
 
 5. **Result Visualization**:
+
 ![Artistic Portrait](Output/1.png)
 
 ## Conclusion
